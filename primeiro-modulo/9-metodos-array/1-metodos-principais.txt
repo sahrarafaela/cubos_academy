@@ -1,0 +1,5 @@
+1- length (propriedade) tamanho do array
+2- .push insere no fim 
+3- .pop remove do fim
+4- .unshift insere no inicio
+5- .shif remove do inicio

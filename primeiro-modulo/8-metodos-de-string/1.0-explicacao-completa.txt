@@ -1,0 +1,6 @@
+1 - includes():
+determina se um conjunto de caracteres pode ser encontrado dentro de outra string, retornando #true ou #false.
+O primeiro 
+
+2- indedxOf():
+método retorna o primeiro índice no qual um determinado elemento pode ser encontrado na matriz ou -1 se não estiver presente.
